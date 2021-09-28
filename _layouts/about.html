@@ -12,24 +12,26 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-      {% endif %}
-      {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">
-          {% include social.html %}
+    <div class="flexbox mt-4">
+      {% if page.profile %}
+      <div class="profile">
+        {% if page.profile.image %}
+          <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        {% endif %}
+        {% if page.social %}
+        <div class="social">
+          <div class="contact-icons">
+            {% include social.html %}
+          </div>
+          <div class="contact-note">{{ site.contact_note }}</div>
         </div>
-        <div class="contact-note">{{ site.contact_note }}</div>
+        {% endif %}
       </div>
       {% endif %}
-    </div>
-    {% endif %}
 
-    <div class="clearfix">
-      {{ content }}
+      <div class="about-content">
+        {{ content }}
+      </div>
     </div>
 
     {% if page.news %}

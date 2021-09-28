@@ -49,6 +49,10 @@ blockquote {
 }
 
 // Profile
+.flexbox {
+  flex-direction: column;
+  display: flex;
+}
 
 .profile {
   margin-right: 2rem;
@@ -66,12 +70,20 @@ blockquote {
 }
 
 @media (min-width: 576px) {
+  .flexbox {
+    flex-direction: row;
+  }
+
   .profile {
-    width: 30%;
+    width: 70rem;
     .address {
       p { display: block; }
     }
   }
+}
+
+.about-content {
+  flex: auto;
 }
 
 .post-description {
