@@ -4,4 +4,4 @@ date: 2021-07-23
 inline: true
 ---
 
-Left Indeed, Hyderabad.
+Left job at Indeed.

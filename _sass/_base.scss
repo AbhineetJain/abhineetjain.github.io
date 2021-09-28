@@ -51,7 +51,7 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-right: 2rem;
   width: 100%;
 
   .address {
@@ -197,15 +197,18 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
+  vertical-align: middle;
 }
 
 // Social (bottom)
 
 .social {
   text-align: center;
+  padding: 0.5rem;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
+      padding: 0.5rem;
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
