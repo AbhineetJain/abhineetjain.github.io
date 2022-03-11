@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Abhineet Jain # the website title (if blank, full name will be used instead)
-first_name: [Abhineet, A., Abhineet*]
+first_name: Abhineet
 middle_name:
 last_name: Jain
 email: abhineetjain95@gmail.com
@@ -151,7 +151,7 @@ github: [metadata]
 scholar:
 
   last_name: Jain
-  first_name: [Abhineet, A.]
+  first_name: [Abhineet, A., Abhineet*]
 
   style: apa
   locale: en
