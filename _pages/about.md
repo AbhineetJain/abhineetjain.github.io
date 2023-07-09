@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Grad student at Georgia Tech
+description: Senior Software Development Engineer at Tesla
 
 profile:
   align: left
@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an MS in CS student at Georgia Tech, currently working on learning dexterous manipulation from demonstrations with [Prof. Harish Ravichandar](https://harishravichandar.com){:target="\_blank"}.
+I am a Senior Software Development Engineer at [Tesla](https://www.tesla.com), working in the Factory Software team at the Tesla Giga Factory in Austin, Texas.
+
+I graduated from Georgia Tech with an MS degree in Computer Science. Specializing in computational robotics and perception, I explored safe and efficient learning techniques for dexterous manipulation with [Prof. Harish Ravichandar](https://harishravichandar.com){:target="\_blank"}.
 
 Before joining Georgia Tech, I was a Software Engineer at [Indeed](https://indeed.com){:target="\_blank"} for 4 years. I worked on Indeed Apply, a platform that creates and delivers millions of job applications to employers worldwide everyday.
 
