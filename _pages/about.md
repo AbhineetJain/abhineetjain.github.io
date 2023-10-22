@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Senior Software Development Engineer at [Tesla](https://www.tesla.com), working in the Factory Software team at the Tesla Giga Factory in Texas.
 
-I graduated from Georgia Tech with an MS degree in Computer Science. Specializing in computational robotics and perception, I explored safe and efficient learning techniques for dexterous manipulation with [Prof. Harish Ravichandar](https://harishravichandar.com){:target="\_blank"}.
+I graduated from Georgia Tech with an MS degree in Computer Science. Specializing in computational robotics and perception, I explored [safe and efficient learning techniques for dexterous manipulation](https://hdl.handle.net/1853/72084){:target="\_blank"} with [Prof. Harish Ravichandar](https://harishravichandar.com){:target="\_blank"}.
 
 Before joining Georgia Tech, I was a Software Engineer at [Indeed](https://indeed.com){:target="\_blank"} for 4 years. I worked on Indeed Apply, a platform that creates and delivers millions of job applications to employers worldwide everyday.
 

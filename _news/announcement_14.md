@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-26
+date: 2023-05-06
 inline: true
 ---
 
-Joined Tesla as Senior Software Development Engineer.
+Graduated from Georgia Tech with a Master of Science degree in Computer Science.
