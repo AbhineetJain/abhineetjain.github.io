@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: patents and publications by categories in reversed chronological order.
-years: [2022, 2023]
+years: [2023, 2022]
 nav: true
 ---
 
