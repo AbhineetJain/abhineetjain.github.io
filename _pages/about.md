@@ -5,8 +5,8 @@ permalink: /
 subtitle: Senior Software Engineer at Tesla
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info:
 
