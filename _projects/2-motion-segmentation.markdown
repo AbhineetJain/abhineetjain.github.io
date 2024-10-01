@@ -4,7 +4,7 @@ title: Dynamic Semantic Motion Segmentation
 description: Spring 2016, Undergraduate Researcher, IIIT Hyderabad
 img: /assets/img/DynamicSegmentation.jpeg
 importance: 3
-category: work
+category: robotics
 ---
 
 Worked on implementing incremental surface reconstruction and tracking in dynamic scenes.

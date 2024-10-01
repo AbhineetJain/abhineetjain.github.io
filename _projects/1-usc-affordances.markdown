@@ -4,7 +4,7 @@ title: Exploring CNN-based Feature Transfer for Robot Affordances
 description: Summer 2016, Visiting Scholar, USC
 img: /assets/img/PR2.jpeg
 importance: 1
-category: work
+category: robotics
 ---
 
 <div class="row">

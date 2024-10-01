@@ -4,7 +4,7 @@ title: Obstacle Avoidance and Path Planning
 description: Fall 2015, Course Project, Mobile Robotics
 img: /assets/img/MR.png
 importance: 3
-category: work
+category: robotics
 ---
 
 ##### Assumptions:
