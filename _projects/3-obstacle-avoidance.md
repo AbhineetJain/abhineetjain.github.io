@@ -8,6 +8,7 @@ category: robotics
 ---
 
 ##### Assumptions:
+
 - The problem assumes the radius of the robot as 0.5 units.
 - The obstacles are only rectangular in shape.
 - The area is limited to 15 x 15 units (for visualization purposes).
@@ -20,7 +21,7 @@ category: robotics
 - The red lines represent edges constituting the shortest path from start to goal.
 - The start and goal points have been exclusively mentioned on the plot.
 - The blue curve is the final path the robot will undertake.
-- The points marked with '*' are the intermediate points.
+- The points marked with '\*' are the intermediate points.
 
 ##### Approach:
 
