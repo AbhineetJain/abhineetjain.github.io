@@ -37,9 +37,9 @@ Graphs related to 2 testcases are shown.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1b_testcase1.png" title="Test case 1" class="img-fluid rounded z-depth-1" %}
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1b_testcase1.png' | relative_url }}" alt="" title="Test case 1"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1b_testcase4.png" title=Test case 2" class="img-fluid rounded z-depth-1" %}
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1b_testcase4.png' | relative_url }}" alt="" title="Test case 2"/>
     </div>
 </div>
