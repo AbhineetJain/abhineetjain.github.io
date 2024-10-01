@@ -307,7 +307,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Jain
+  last_name: [Jain, Jain*]
   first_name: [Abhineet, A., Abhineet*]
 
   style: apa
