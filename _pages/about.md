@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Senior Software Engineer at [Tesla](https://www.tesla.com){:target="\_blank"}, working in the Factory Software team at the Tesla Giga Factory in Texas.
+I am a Staff Software Engineer at [Tesla](https://www.tesla.com){:target="\_blank"}, working in the GenAI Platform team.
 
 I graduated from Georgia Tech with an MS degree in Computer Science. Specializing in computational robotics and perception, I explored [safe and efficient learning techniques for dexterous manipulation](https://hdl.handle.net/1853/72084){:target="\_blank"} with [Prof. Harish Ravichandar](https://harishravichandar.com){:target="\_blank"}.
 
