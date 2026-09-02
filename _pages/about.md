@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Software Engineer at Tesla
+subtitle: Staff Software Engineer at Tesla
 
 profile:
   align: left
